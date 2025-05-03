@@ -27,13 +27,13 @@ Users should be able to:
 - See the social media share links when they click the share icon
 
 ### Screenshot
-![screenshot](<images/Screenshot (1).png>)
+![screenshot](<images/Screenshot (6).png>)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [**Solution URL**](https://github.com/devmelody/article-preview-component)
+- Live Site URL: [**Live Site URL**](https://devmelody.github.io/article-preview-component)
 
 ## My process
 - I started with the desktop view. A lot of people always say to start with mobile instead but I don't see how that works. Desktop looks so complicated and I'd rather deal with that first.
